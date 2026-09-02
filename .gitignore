@@ -1,0 +1,4 @@
+# Local deploy tooling - not part of the site
+auto-deploy.ps1
+install-auto-deploy.bat
+deploy.log
